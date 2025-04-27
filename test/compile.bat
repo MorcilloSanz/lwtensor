@@ -1,0 +1,1 @@
+gcc -std=c11 test.c -o test.exe
